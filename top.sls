@@ -1,5 +1,0 @@
-base:
-  '*':
-    - nginx
-    - flask
-    - python
